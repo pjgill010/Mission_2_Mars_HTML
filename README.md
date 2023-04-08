@@ -1,14 +1,14 @@
-##Mission_2_Mars_HTML
+## Mission_2_Mars_HTML
 
-#Assignment
+# Assignment
 - Deliverable 1: Scrape titles and preview text from Mars news articles.
 - Deliverable 2: Scrape and analyze Mars weather data, which exists in a table
 
-#Part 1
+# Part 1
 - Automated browsing used for Mars News site
 - Beautiful Soup object created, used to extract the title/preview of Mars news articles
 
-#Part 2:
+# Part 2:
 - Automated browsing used to visit Mars Temperature Data Site, created Beautiful Soup object to extract elements
 - Assembles scraped data in Pandas DataFram with the columns matching table on website
 - Pandas functions were used to answer following questions:
